@@ -5,8 +5,6 @@ end
 def deal_card
  i= rand(1..11)
  puts i 
- puts i
- puts i
  return i
   
 end

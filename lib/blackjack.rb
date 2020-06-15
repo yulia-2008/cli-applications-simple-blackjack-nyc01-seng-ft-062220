@@ -3,7 +3,9 @@ def welcome
 end
 
 def deal_card
-  rand(1..11)
+ i= rand(1..11)
+ puts i 
+ return i
   
 end
 
